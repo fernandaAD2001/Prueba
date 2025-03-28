@@ -4,3 +4,4 @@ tODOS VEN LO QUE HAGO
 Tarda mucho en mostrarse
 Ptm
 Veamos si funciona sin actualizar
+Se debe actualizar 
